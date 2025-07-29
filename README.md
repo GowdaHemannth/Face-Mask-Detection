@@ -17,7 +17,7 @@ A simple and effective Face Mask Detection system built using **OpenCV**, **Tens
 
 > 🎬 Click below to watch a 20-second demo of the system in action:
 
-[▶️ Watch Demo Video](demo.mp4)
+[▶️ Watch Demo Video](demo.mp4.mp4)
 
 You can also preview the system here:
 
