@@ -12,7 +12,9 @@ A simple and effective Face Mask Detection system built using **OpenCV**, **Tens
 - Trained on a custom dataset with augmentation
 
 ---
-
+## Here you can view screenshots 
+(Mask.png)
+(No-Mask.png)
 ## 📽️ Demo Video
 
 > 🎬 Click below to watch a 20-second demo of the system in action:
